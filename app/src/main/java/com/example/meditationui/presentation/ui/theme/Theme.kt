@@ -1,4 +1,4 @@
-package com.example.meditationui.ui.theme
+package com.example.meditationui.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
