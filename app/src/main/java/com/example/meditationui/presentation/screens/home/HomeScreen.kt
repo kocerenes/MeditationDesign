@@ -393,7 +393,7 @@ fun BottomMenuItem(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
         modifier = Modifier.clickable {
-            onItemClick
+            onItemClick()
         }
     ) {
         Box(
